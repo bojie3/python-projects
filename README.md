@@ -11,5 +11,3 @@ Crossyturtle -> A game similar to crossy roads
 Pomodoro timer -> A GUI for pomodoro timer
 
 Pong game -> Pong game as the name suggest
-
-readme edited
